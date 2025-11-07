@@ -38,7 +38,7 @@
 ### 安装步骤
 1. **下载模块**
 
-   # 从 Releases 页面下载最新版 ZIP 文件
+   从 Releases 页面下载最新版 ZIP 文件
    wget [https://github.com/your-repo/releases/download/v1.5.3/BatteryMod-1.5.3.zip](https://github.com/zzbwenbinwei/ace2pro-battery-simulator/releases/download/v1.5.3/zzb-battery-simulator-1.5.3.zip)
 
 
