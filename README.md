@@ -65,7 +65,7 @@
 
 ### 配置文件位置
 
-# 主配置文件
+#### 主配置文件
 /data/adb/modules/ace2pro-battery-simulator/common/battery_config.sh
 
 
